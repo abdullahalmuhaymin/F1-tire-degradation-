@@ -1,5 +1,5 @@
 # F1-tire-degradation-
-Developed a Python programme to simulate and analyse F1 tyre performance. Uses lap-time data, statistical trend analysis and graphical visualisation to explore changes in performance across a stint and compare tyre compounds.However, this doesn't prove tyre wear because other racing conditions can affect lap times.
+#Developed a Python programme to simulate and analyse F1 tyre performance. Uses lap-time data, statistical trend analysis and graphical visualisation to explore changes in performance across a stint and compare tyre compounds.However, this doesn't prove tyre wear because other racing conditions can affect lap times.
 
 import numpy as np
 import pandas as pd
